@@ -1,2 +1,2 @@
 # gymbros
-A couple of bros selling gym equipments
+A school of fish selling gym equipments
