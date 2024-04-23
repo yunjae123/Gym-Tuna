@@ -1,2 +1,2 @@
 # gymbros
-A school of fish selling gym equipments
+A school of fish selling gym merch
