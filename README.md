@@ -1,2 +1,3 @@
-# gymbros
-A school of fish selling gym merch
+# Overview
+
+##Gym Whales## is a company 
