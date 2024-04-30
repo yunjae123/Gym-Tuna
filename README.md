@@ -4,4 +4,4 @@ Welcome to **Gym Whale**, where fitness meets fashion! Our brand is dedicated to
 Whether you're lifting weights, running on the treadmill, or stretching in a yoga class, our apparel is designed to support your fitness journey while making you look great. 
 Join the **Gym Whale** family and embrace your passion for fitness with every workout!
 
-![Gym Whale Logl](pics/pics2.png)
+![Gym Whale Logl](pics/pic2.png)
