@@ -37,3 +37,7 @@ As a logged-in administrator to our platform, we should be able to add, edit, de
 ## US#4: Merchandise Purchasing  - 10 Points
 
 As a logged-in customer to our platform, the customer should be able to purchase the merchandise that's listed on our platform. At the start, we may implement where they can only buy one merchandise per transaction. As the platform gets more optimized, we may implement a shopping-cart system where the customer can purhcase more than one merchandise per transaction.
+
+## US#5: Merchandise Rating  - 15 Points
+
+As a logged-in customer to our platform, the customer should be able to rate all the merchandise that's listed on our platform. They should be able to rate the product 1-5 stars, and the product will show the average rating from all the customers that rated it previously. Once that's implemented, we may also implement a review system where a customer can write comments on any of the products. 
