@@ -24,8 +24,8 @@ This section outlines the main User Stories that are expected to be implemented 
 
 ## US#1: User Registration/Authentication - 3 Points
 
-As user of our website, one should be able to register themselves onto our platform, so that they can purchase the merchandise on our website. They should be able to sign-up with the following criteria: Name, Username, Address and Password. Then the same user should be able to log-in using their Username and Password.
+As users of our website, one should be able to register themselves onto our platform, so that they can purchase merchandise on our website. They should be able to sign-up with the following criteria: Name, Username, Address and Password. Then the same user should be able to log-in using their Username and Password.
 
 ## US#2: Merchandise Viewing - 8 Points
 
-As logged-in user on our platform, the customer should be able to look at all the merchandise that we're selling. The Customer should also be able to sort our products by price, and also maybe the type of clothing. (Ex: Pants, Shirts, Accessory)
+As logged-in customer on our platform, one should be able to look at all the merchandise that we're selling. The Customer should also be able to sort our products by price, and also maybe the type of clothing. (Ex: Pants, Shirts, Accessory)
