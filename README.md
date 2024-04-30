@@ -29,3 +29,11 @@ As users of our website, one should be able to register themselves onto our plat
 ## US#2: Merchandise Viewing - 8 Points
 
 As logged-in customer on our platform, one should be able to look at all the merchandise that we're selling. The Customer should also be able to sort our products by price, and also maybe the type of clothing. (Ex: Pants, Shirts, Accessory)
+
+## US#3: Merchandise Maintenance  - 10 Points
+
+As a logged-in administrator to our platform, we should be able to add, edit, delete any of the merchandise that we plan on selling/unlisting and etc. 
+
+## US#4: Merchandise Purchasing  - 10 Points
+
+As a logged-in customer to our platform, the customer should be able to purchase the merchandise that's listed on our platform. At the start, we may implement where they can only buy one merchandise per transaction. As the platform gets more optimized, we may implement a shopping-cart system where the customer can purhcase more than one merchandise per transaction.
